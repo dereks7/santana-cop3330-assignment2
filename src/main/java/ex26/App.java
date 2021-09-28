@@ -1,3 +1,5 @@
+package ex26;
+
 import java.util.Scanner;
 /*
  *  UCF COP3330 Fall 2021 Assignment 2 Solution
@@ -18,7 +20,7 @@ p is the monthly payment.
 n = -(1/30) * log(1 + b/p * (1 - (1 + i)^30)) / log(1 + i)
  */
 
-public class ex26
+public class App
 {
     public static void main( String[] args )
     {

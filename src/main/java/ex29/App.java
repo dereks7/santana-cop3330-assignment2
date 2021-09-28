@@ -1,3 +1,5 @@
+package ex29;
+
 import java.util.Scanner;
 /*
  *  UCF COP3330 Fall 2021 Assignment 2 Solution
@@ -14,7 +16,7 @@ It will take 18 years to double your initial investment.
 years = 72 / r
  */
 
-public class ex29
+public class App
 {
     public static void main( String[] args )
     {

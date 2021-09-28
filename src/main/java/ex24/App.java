@@ -1,3 +1,5 @@
+package ex24;
+
 import java.util.Scanner;
 /*
  *  UCF COP3330 Fall 2021 Assignment 2 Solution
@@ -11,7 +13,7 @@ Enter the second string: tone
 "note" and "tone" are anagrams.
  */
 
-public class ex24
+public class App
 {
     public static void main( String[] args )
     {

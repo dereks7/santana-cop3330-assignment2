@@ -1,3 +1,5 @@
+package ex25;
+
 import java.util.Scanner;
 /*
  *  UCF COP3330 Fall 2021 Assignment 2 Solution
@@ -11,7 +13,7 @@ The password 'abc123xyz' is a strong password.
 The password '1337h@xor!' is a very strong password.
  */
 
-public class ex25
+public class App
 {
     public static void main( String[] args )
     {

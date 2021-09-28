@@ -1,3 +1,5 @@
+package ex34;
+
 import java.util.Objects;
 import java.util.Scanner;
 import java.util.Random;
@@ -21,7 +23,7 @@ Jackie Jackson
 Amanda Cullen
 Jeremy Goodwin
  */
-public class ex34
+public class App
 {
     public static void main( String[] args )
     {

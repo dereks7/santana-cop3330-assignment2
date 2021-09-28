@@ -1,3 +1,5 @@
+package ex35;
+
 import java.util.Objects;
 import java.util.Scanner;
 import java.util.Random;
@@ -14,7 +16,7 @@ Enter a name: Moe
 Enter a name:
 The winner is... Maggie.
  */
-public class ex35
+public class App
 {
     public static void main( String[] args )
     {

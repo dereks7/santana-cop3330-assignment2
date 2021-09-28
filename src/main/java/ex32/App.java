@@ -1,3 +1,5 @@
+package ex32;
+
 import java.util.Objects;
 import java.util.Scanner;
 import java.util.Random;
@@ -32,7 +34,7 @@ You got it in 10 guesses!
 Do you wish to play again (Y/N)? n
  */
 
-public class ex32
+public class App
 {
     public static void main( String[] args )
     {

@@ -1,3 +1,5 @@
+package ex36;
+
 import java.util.Objects;
 import java.util.Scanner;
 import java.util.Random;
@@ -20,7 +22,7 @@ The standard deviation is 353.55
  */
 
 
-public class ex36
+public class App
 {
     public static void main( String[] args )
     {

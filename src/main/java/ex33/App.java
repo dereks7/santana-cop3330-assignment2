@@ -1,3 +1,5 @@
+package ex33;
+
 import java.util.Objects;
 import java.util.Scanner;
 import java.util.Random;
@@ -13,7 +15,7 @@ What's your question?
 Ask again later.
  */
 
-public class ex33
+public class App
 {
     public static void main( String[] args )
     {
